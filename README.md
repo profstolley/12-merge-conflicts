@@ -5,3 +5,4 @@ Merge-conflict resolution demos from Week Twelve
 *Use a bullet and include your GitHub username, e.g, `* The Octo Cat (@octocat)`*
 
 * Karl Stolley (@karlstolley)
+* Karl Stolley (@profstolley)
